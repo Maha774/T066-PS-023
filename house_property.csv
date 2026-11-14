@@ -1,0 +1,3 @@
+hp_id,taxpayer_id,property_type,annual_rent_received,municipal_tax_paid,home_loan_interest
+HP-01,TP-005,SELF_OCCUPIED,0.00,0.00,240000.00
+HP-02,TP-014,LET_OUT,180000.00,0.00,376000.00
